@@ -9,7 +9,7 @@ body{
 .container h3{
     color: #fff;
     font-size: 48px;
-    margin: 60px 0;
+    margin: 45px 0;
     text-align: center;
 }
 /* header start */
@@ -53,6 +53,10 @@ header .oyindamola{
 .skilled-box{
     height: 240px;
     background-color: #212121;
+    transition: 0.8s ease-in-out;
+}
+.skilled-box:hover{
+    border-bottom: 5px solid #27AE60;
 }
 .skilled-box i{
     color: #27AE60;
@@ -73,14 +77,19 @@ header .oyindamola{
     font-size: 60px;
     text-align: center;
 }
-.container .skills .single-skill p{
+.container .skills .single-skill h5{
     color: #27AE60;
+    font-size: 20px;
     text-align: center;
 }
 /* my skills end */
+
+/* contact us start */
 .form-font{
-    color: #4F4F4F;
+    color: #868686;
 }
+/* contact us end */
+
 
 /* footer start */
 footer{
