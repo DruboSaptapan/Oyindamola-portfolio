@@ -6,6 +6,12 @@ body{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+.container h3{
+    color: #fff;
+    font-size: 48px;
+    margin: 60px 0;
+    text-align: center;
+}
 /* header start */
 header .row .col-6 .img-box{
     padding: 15px;
@@ -26,17 +32,17 @@ header .oyindamola{
 /* about start */
 .container h2{
     color: #fff;
-    font-size: 35px;
+    font-size: 54px;
     text-align: center;
 }
 .container .about{
     color: #fff;
     font-size: 16px;
-    margin: 38px 120px;
     text-align: center;
 }
 .container .contact p{
     color: #27AE60;
+    text-align: center;
 }
 .container .contact strong{
     color: #fff;
@@ -45,11 +51,12 @@ header .oyindamola{
 
 /* what do i do start */
 .skilled-box{
+    height: 240px;
     background-color: #212121;
 }
-.skilled-box .fab{
+.skilled-box i{
     color: #27AE60;
-    font-size: 40px;
+    font-size: 50px;
 }
 .skilled-box h4{
     color: #535353;
