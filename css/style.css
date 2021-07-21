@@ -38,3 +38,19 @@ header .oyindamola{
     color: #fff;
 }
 /* about end */
+
+/* what do i do start */
+.skill-box{
+    background-color: #212121;
+    margin: 15px;
+    width: 30%;
+}
+.skill-box .fab{
+    color: #27AE60;
+    font-size: 40px;
+}
+.skill-box h3{
+    color: #535353;
+    font-size: 36px;
+}
+/* what do i do end */
