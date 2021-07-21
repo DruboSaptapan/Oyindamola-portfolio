@@ -1,5 +1,6 @@
 body{
     background-color: #171717;
+    overflow-x: hidden;
 }
 .cust-margin{
     margin-top: 80px;
@@ -45,19 +46,28 @@ header .oyindamola{
 /* what do i do start */
 .skilled-box{
     background-color: #212121;
-    margin: 10px;
-    width: 30%;
 }
 .skilled-box .fab{
     color: #27AE60;
     font-size: 40px;
 }
-.skilled-box h3{
+.skilled-box h4{
     color: #535353;
     font-size: 36px;
 }
 /* what do i do end */
 
 /* my skills start */
-
+.container .skills{
+    background-color: #212121;
+}
+.container .skills .single-skill h1{
+    color: #4F4F4F;
+    font-size: 60px;
+    text-align: center;
+}
+.container .skills .single-skill p{
+    color: #27AE60;
+    text-align: center;
+}
 /* my skills end */
