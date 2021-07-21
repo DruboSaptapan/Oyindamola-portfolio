@@ -31,4 +31,10 @@ header .oyindamola{
     margin: 38px 120px;
     text-align: center;
 }
+.container .contact p{
+    color: #27AE60;
+}
+.container .contact strong{
+    color: #fff;
+}
 /* about end */
