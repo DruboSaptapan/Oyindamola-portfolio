@@ -1,7 +1,10 @@
 body{
     background-color: #171717;
 }
-
+.cust-margin{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
 /* header start */
 header .row .col-6 .img-box{
     padding: 15px;
@@ -40,16 +43,16 @@ header .oyindamola{
 /* about end */
 
 /* what do i do start */
-.skill-box{
+.skilled-box{
     background-color: #212121;
-    margin: 15px;
+    margin: 10px;
     width: 30%;
 }
-.skill-box .fab{
+.skilled-box .fab{
     color: #27AE60;
     font-size: 40px;
 }
-.skill-box h3{
+.skilled-box h3{
     color: #535353;
     font-size: 36px;
 }
